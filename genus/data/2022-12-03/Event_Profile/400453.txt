@@ -1,2 +1,0 @@
-{'nodeId': 400453, 'debugServerTime': '2022-12-02T19:08:52.570703', 'type': 'Event_Profile', 'capturePeriod': 0, 'subType': 'EVENT_POWER', 'dataObis': [], 'data': [[]], 'scalarObis': [], 'scalar': []}
-{'nodeId': 400453, 'debugServerTime': '2022-12-02T19:08:52.570703', 'type': 'Event_Profile', 'capturePeriod': 0, 'subType': 'EVENT_POWER', 'dataObis': [], 'data': [[]], 'scalarObis': [], 'scalar': []}
