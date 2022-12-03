@@ -1,0 +1,1 @@
+{'nodeId': 400970, 'debugServerTime': '2022-12-03T00:17:42.729749', 'type': 'Midnight_Profile', 'capturePeriod': 0, 'dataObis': [], 'data': [[]], 'scalarObis': [], 'scalar': []}

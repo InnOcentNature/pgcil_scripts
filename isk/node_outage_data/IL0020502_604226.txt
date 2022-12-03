@@ -1,0 +1,1 @@
+1670053786660 : {'assetNumber': 'IL0020502', 'connectionOutage': False, 'nodeOutage': True, 'debugServerTime': '2022-12-03T13:19:46.660003', 'nodeId': 604226}

@@ -1,0 +1,12 @@
+{'nodeId': 5411, 'meterNumber': 'IE00291', 'meterMaker': 'ISKIE00291', 'gwId': '866340057560008', 'sinkId': 'sink4', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-03T14:09:55.56265'}
+{'nodeId': 5411, 'meterNumber': 'IE00291', 'meterMaker': 'ISKIE00291', 'gwId': '866340057560008', 'sinkId': 'sink4', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-03T12:36:46.864347'}
+{'nodeId': 5411, 'meterNumber': 'IE00291', 'meterMaker': 'ISKIE00291', 'gwId': '866340057560008', 'sinkId': 'sink4', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-03T12:38:36.566289'}
+{'nodeId': 5411, 'meterNumber': 'IE00291', 'meterMaker': 'ISKIE00291', 'gwId': '866340057560008', 'sinkId': 'sink4', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-03T12:52:55.460616'}
+{'nodeId': 5411, 'meterNumber': 'IE00291', 'meterMaker': 'ISKIE00291', 'gwId': '866340057560008', 'sinkId': 'sink4', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-03T13:07:55.482298'}
+{'nodeId': 5411, 'meterNumber': 'IE00291', 'meterMaker': 'ISKIE00291', 'gwId': '866340057560008', 'sinkId': 'sink4', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-03T13:09:17.898301'}
+{'nodeId': 5411, 'meterNumber': 'IE00291', 'meterMaker': 'ISKIE00291', 'gwId': '866340057560008', 'sinkId': 'sink4', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-03T13:24:59.764465'}
+{'nodeId': 5411, 'meterNumber': 'IE00291', 'meterMaker': 'ISKIE00291', 'gwId': '866340057560008', 'sinkId': 'sink4', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-03T13:39:26.361252'}
+{'nodeId': 5411, 'meterNumber': 'IE00291', 'meterMaker': 'ISKIE00291', 'gwId': '866340057560008', 'sinkId': 'sink4', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-03T13:54:19.678679'}
+{'nodeId': 5411, 'meterNumber': 'IE00291', 'meterMaker': 'ISKIE00291', 'gwId': '866340057560008', 'sinkId': 'sink4', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-03T14:09:55.56265'}
+{'nodeId': 5411, 'meterNumber': 'IE00291', 'meterMaker': 'ISKIE00291', 'gwId': '866340057560008', 'sinkId': 'sink4', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-03T14:24:19.1586'}
+{'nodeId': 5411, 'meterNumber': 'IE00291', 'meterMaker': 'ISKIE00291', 'gwId': '866340057560008', 'sinkId': 'sink4', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-03T14:40:00.458307'}

@@ -865,29 +865,29 @@ def enableAll(node_id):
 
 
 if __name__ == '__main__':
-    ABSOLUTE_PATH = os.path.dirname(__file__)
-    MESSAGE_DIR = os.path.join(ABSOLUTE_PATH, "command_response\\Message")
-
-    today = str(datetime.date.today())
-    date_str = ''
-    for d in os.listdir(MESSAGE_DIR):
-        if d == today:
-            date_str = d
-    DATE_FOLDER = os.path.join(MESSAGE_DIR, date_str)
-
-    file_name = "9A_CONNECT_DISCONNECT_EXECUTED.txt"
-    excuted_nodes_file = open(DATE_FOLDER + "\\" + file_name, 'r')
-
-    excuted_nodes = []
-    master_nodes = genus_master_list.NODE_LIST_6F
+    # ABSOLUTE_PATH = os.path.dirname(__file__)
+    # MESSAGE_DIR = os.path.join(ABSOLUTE_PATH, "command_response\\Message")
+    #
+    # today = str(datetime.date.today())
+    # date_str = ''
+    # for d in os.listdir(MESSAGE_DIR):
+    #     if d == today:
+    #         date_str = d
+    # DATE_FOLDER = os.path.join(MESSAGE_DIR, date_str)
+    #
+    # file_name = "20_P_READ_LOAD_EXECUTED.txt"
+    # excuted_nodes_file = open(DATE_FOLDER + "\\" + file_name, 'r')
+    #
+    # excuted_nodes = []
+    master_nodes = genus_master_list.NODE_LIST_20
 
     try:
         count = 1
-        # for node in master_nodes:
-        #     load(node, False)
-        #     time.sleep(1)
-        #     print(count)
-        #     count = count + 1
+        for node in master_nodes:
+            getConnectState(node, False)
+            time.sleep(120)
+            print(count)
+            count = count + 1
         # for line in excuted_nodes_file.readlines():
         #     line = line.replace("\n", "")
         #     excuted_nodes.append(int(line))
@@ -898,6 +898,7 @@ if __name__ == '__main__':
         #         print(node_count)
         #     else:
         #         load(master_node, False)
+        #         time.sleep(30)
         #         print(node_count)
         #     node_count = node_count + 1
     except Exception as error:

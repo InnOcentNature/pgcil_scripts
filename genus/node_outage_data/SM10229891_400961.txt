@@ -1,0 +1,1 @@
+1670060576090 : {'assetNumber': 'SM10229891', 'nodeOutage': True, 'debugServerTime': '2022-12-03T15:12:56.090798', 'nodeId': 400961}
