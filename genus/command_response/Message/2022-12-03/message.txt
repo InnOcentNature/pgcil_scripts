@@ -1,0 +1,1054 @@
+{'nodeId': 400373, 'commandId': 375, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400416, 'commandId': 1670014209, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400430, 'commandId': 1670014209, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400429, 'commandId': 1670014209, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400430, 'commandId': 1670014209, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400429, 'commandId': 1670014209, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400416, 'commandId': 1670014209, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400417, 'commandId': 1670014209, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400361, 'commandId': 1670014209, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400417, 'commandId': 1670014209, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400361, 'commandId': 1670014209, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400672, 'commandId': 789, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400344, 'commandId': 1670015636, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400344, 'commandId': 1670015636, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400423, 'commandId': 1670015636, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400423, 'commandId': 1670015636, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400384, 'commandId': 1670016037, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400384, 'commandId': 1670016037, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400342, 'commandId': 431, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400383, 'commandId': 1670017456, 'status': 'ACCEPTED', 'commandType': 'GET_CONNECT_STATE'}
+{'nodeId': 400383, 'commandId': 1670017456, 'status': 'EXECUTED', 'commandType': 'GET_CONNECT_STATE', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400383, 'commandId': 1670017530, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400383, 'commandId': 1670017530, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400332, 'commandId': 1670014209, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400357, 'commandId': 1670014209, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400358, 'commandId': 378, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400349, 'commandId': 1670014209, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400349, 'commandId': 1670014209, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400395, 'commandId': 1670014209, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400413, 'commandId': 1670014209, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400391, 'commandId': 1670014209, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400357, 'commandId': 1670014209, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400391, 'commandId': 1670014209, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400431, 'commandId': 1670014209, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400395, 'commandId': 1670014209, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400431, 'commandId': 1670014209, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400351, 'commandId': 1670014209, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400351, 'commandId': 1670014209, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400393, 'commandId': 1670014209, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400572, 'commandId': 379, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400393, 'commandId': 1670014209, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400504, 'commandId': 395, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400413, 'commandId': 1670016037, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400413, 'commandId': 1670016037, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400413, 'commandId': 1670016166, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400413, 'commandId': 1670016166, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400425, 'commandId': 411, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400545, 'commandId': 417, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400436, 'commandId': 433, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400395, 'commandId': 1670017456, 'status': 'ACCEPTED', 'commandType': 'GET_CONNECT_STATE'}
+{'nodeId': 400418, 'commandId': 1670017456, 'status': 'ACCEPTED', 'commandType': 'GET_CONNECT_STATE'}
+{'nodeId': 400418, 'commandId': 1670017456, 'status': 'FAILED_AUTH', 'commandType': 'GET_CONNECT_STATE', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400413, 'commandId': 1670017456, 'status': 'ACCEPTED', 'commandType': 'GET_CONNECT_STATE'}
+{'nodeId': 400395, 'commandId': 1670017456, 'status': 'FAILED_NO_REPLY', 'commandType': 'GET_CONNECT_STATE', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400395, 'commandId': 1670017530, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400395, 'commandId': 1670017530, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400418, 'commandId': 1670017530, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400418, 'commandId': 1670017530, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400412, 'commandId': 1670015636, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400412, 'commandId': 1670015636, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400410, 'commandId': 421, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400424, 'commandId': 1670017456, 'status': 'ACCEPTED', 'commandType': 'GET_CONNECT_STATE'}
+{'nodeId': 400424, 'commandId': 1670017456, 'status': 'FAILED_AUTH', 'commandType': 'GET_CONNECT_STATE', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400411, 'commandId': 1670017530, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400424, 'commandId': 1670017530, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400424, 'commandId': 1670017530, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400411, 'commandId': 1670017530, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400424, 'commandId': 1670017840, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400424, 'commandId': 1670017840, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400331, 'commandId': 443, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400493, 'commandId': 441, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400411, 'commandId': 1670018006, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400411, 'commandId': 1670018006, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400336, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400336, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400350, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400350, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400376, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400355, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400380, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400355, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400365, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400376, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400365, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400374, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400380, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400369, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400362, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400379, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400379, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400374, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400382, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400382, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400362, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400412, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400419, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400369, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400410, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400411, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400412, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400415, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400419, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400410, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400440, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400415, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400435, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400440, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400411, 'commandId': 1670018247, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400405, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400405, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400426, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400481, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400426, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400481, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400483, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400493, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400493, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400482, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400483, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400435, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400478, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400517, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400454, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400459, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400454, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400459, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400482, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400540, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400424, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400424, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400478, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400540, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400546, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400432, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400546, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400537, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400517, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400560, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400560, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400581, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400500, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400500, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400581, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400432, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400528, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400528, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400508, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400550, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400508, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400432, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400550, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400537, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400591, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400569, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400569, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400591, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400472, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400472, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400606, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400585, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400611, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400585, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400611, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400605, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400606, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400583, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400583, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400646, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400605, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400550, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400646, 'commandId': 1670018247, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400626, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400626, 'commandId': 1670018247, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400578, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400578, 'commandId': 1670018247, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400634, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400623, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400623, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400634, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400339, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400367, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400367, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400339, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400424, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400424, 'commandId': 1670018797, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400352, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400352, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400424, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400424, 'commandId': 1670019186, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400395, 'commandId': 1670017840, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400413, 'commandId': 1670017840, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400395, 'commandId': 1670017840, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400413, 'commandId': 1670017840, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400357, 'commandId': 439, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400332, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400335, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400333, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400332, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400333, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400337, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400335, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400337, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400334, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400338, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400343, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400338, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400334, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400354, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400356, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400343, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400358, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400354, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400358, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400385, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400356, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400357, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400385, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400366, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400400, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400402, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400400, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400357, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400402, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400366, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400401, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400360, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400401, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400428, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400360, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400409, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400409, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400418, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400418, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400381, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400381, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400428, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400436, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400436, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400448, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400447, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400431, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400447, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400448, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400431, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400439, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400425, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400425, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400421, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400389, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400390, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400421, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400443, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400439, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400395, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400443, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400523, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400503, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400503, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400470, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400470, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400505, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400456, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400456, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400505, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400523, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400487, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400485, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400487, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400389, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400485, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400390, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400552, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400395, 'commandId': 1670018247, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400531, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400552, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400492, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400529, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400495, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400504, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400495, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400558, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400492, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400504, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400529, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400531, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400558, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400491, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400577, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400577, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400491, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400510, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400510, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400534, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400527, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400534, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400609, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400527, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400609, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400545, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400545, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400574, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400574, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400593, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400593, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400572, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400559, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400572, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400559, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400582, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400613, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400590, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400613, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400590, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400582, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400489, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400622, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400489, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400622, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400600, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400600, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400657, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400576, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400618, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400576, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400631, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400657, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400631, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400618, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400612, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400630, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400612, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400636, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400630, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400660, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400636, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400660, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400651, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400651, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400363, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400370, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400363, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400370, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400407, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400395, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400395, 'commandId': 1670018797, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400391, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400407, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400391, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400397, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400397, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400375, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400375, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400418, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400418, 'commandId': 1670018797, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400349, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400392, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400346, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400349, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400346, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400392, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400398, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400395, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400398, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400395, 'commandId': 1670019186, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400403, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400413, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400351, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400403, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400351, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400395, 'commandId': 1670019309, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400395, 'commandId': 1670019309, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400409, 'commandId': 466, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400529, 'commandId': 474, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400378, 'commandId': 1670020089, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400378, 'commandId': 1670020089, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400393, 'commandId': 1670020089, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400393, 'commandId': 1670020089, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400424, 'commandId': 1670019309, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400420, 'commandId': 1670019309, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400424, 'commandId': 1670019309, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400420, 'commandId': 1670019309, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400435, 'commandId': 468, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400540, 'commandId': 473, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400331, 'commandId': 1670020089, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400396, 'commandId': 1670020089, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400331, 'commandId': 1670020089, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400396, 'commandId': 1670020089, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400341, 'commandId': 438, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400383, 'commandId': 1670017840, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400383, 'commandId': 1670017840, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400344, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400344, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400340, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400345, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400342, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400340, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400361, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400345, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400342, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400347, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400348, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400359, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400361, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400347, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400364, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400364, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400359, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400348, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400368, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400372, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400372, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400368, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400404, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400404, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400371, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400371, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400388, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400388, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400422, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400414, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400423, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400422, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400423, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400427, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400462, 'commandId': 445, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400427, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400373, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400373, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400399, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400406, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400441, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400450, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400441, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400399, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400450, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400406, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400437, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400458, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400460, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400453, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400467, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400460, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400467, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400458, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400476, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400453, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400455, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400445, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400452, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400445, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400476, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400455, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400499, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400463, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400462, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400463, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400414, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400437, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400469, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400499, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400465, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400465, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400452, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400533, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400469, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400533, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400490, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400417, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400484, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400417, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400530, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400518, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400490, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400518, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400563, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400563, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400462, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400484, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400457, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400502, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400594, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400588, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400502, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400520, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400520, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400475, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400588, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400594, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400509, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400513, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400596, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400596, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400509, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400530, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400584, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400536, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400610, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400610, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400604, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400457, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400536, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400549, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400548, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400617, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400542, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400542, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400549, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400561, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400475, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400544, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400617, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400561, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400513, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400601, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400601, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400544, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400604, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400548, 'commandId': 1670018247, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400628, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400571, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400603, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400571, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400607, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400607, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400603, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400535, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400535, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400628, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400642, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400642, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400645, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400645, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400629, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400629, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400416, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400416, 'commandId': 1670018797, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400341, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400429, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400341, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400429, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400387, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400387, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400430, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400430, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400598, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400598, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400386, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400383, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400386, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400383, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400408, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400408, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400368, 'commandId': 467, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400488, 'commandId': 478, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400384, 'commandId': 1670020212, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400384, 'commandId': 1670020212, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400412, 'commandId': 1670015636, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400412, 'commandId': 1670015636, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400410, 'commandId': 421, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400424, 'commandId': 1670017456, 'status': 'ACCEPTED', 'commandType': 'GET_CONNECT_STATE'}
+{'nodeId': 400424, 'commandId': 1670017456, 'status': 'FAILED_AUTH', 'commandType': 'GET_CONNECT_STATE', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400411, 'commandId': 1670017530, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400424, 'commandId': 1670017530, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400424, 'commandId': 1670017530, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400411, 'commandId': 1670017530, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400424, 'commandId': 1670017840, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400424, 'commandId': 1670017840, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400331, 'commandId': 443, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400493, 'commandId': 441, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400411, 'commandId': 1670018006, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400411, 'commandId': 1670018006, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400336, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400336, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400350, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400350, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400376, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400355, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400380, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400355, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400365, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400376, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400365, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400374, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400380, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400369, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400362, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400379, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400379, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400374, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400382, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400382, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400362, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400412, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400419, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400369, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400410, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400411, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400412, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400415, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400419, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400410, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400440, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400415, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400435, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400440, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400411, 'commandId': 1670018247, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400405, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400405, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400426, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400481, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400426, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400481, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400483, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400493, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400493, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400482, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400483, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400435, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400478, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400517, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400454, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400459, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400454, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400459, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400482, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400540, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400424, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400424, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400478, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400540, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400546, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400432, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400546, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400537, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400517, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400560, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400560, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400581, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400500, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400500, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400581, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400432, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400528, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400528, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400508, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400550, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400508, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400432, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400550, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400537, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400591, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400569, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400569, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400591, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400472, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400472, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400606, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400585, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400611, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400585, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400611, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400605, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400606, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400583, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400583, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400646, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400605, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400550, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400646, 'commandId': 1670018247, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400626, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400626, 'commandId': 1670018247, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400578, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400578, 'commandId': 1670018247, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400634, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400623, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400623, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400634, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400339, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400367, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400367, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400339, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400424, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400424, 'commandId': 1670018797, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400352, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400352, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400424, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400424, 'commandId': 1670019186, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400341, 'commandId': 438, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400383, 'commandId': 1670017840, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400383, 'commandId': 1670017840, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400344, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400344, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400340, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400345, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400342, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400340, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400361, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400345, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400342, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400347, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400348, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400359, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400361, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400347, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400364, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400364, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400359, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400348, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400368, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400372, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400372, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400368, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400404, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400404, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400371, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400371, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400388, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400388, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400422, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400414, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400423, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400422, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400423, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400427, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400462, 'commandId': 445, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400427, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400373, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400373, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400399, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400406, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400441, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400450, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400441, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400399, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400450, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400406, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400437, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400458, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400460, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400453, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400467, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400460, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400467, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400458, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400476, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400453, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400455, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400445, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400452, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400445, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400476, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400455, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400499, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400463, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400462, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400463, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400414, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400437, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400469, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400499, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400465, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400465, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400452, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400533, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400469, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400533, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400490, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400417, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400484, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400417, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400530, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400518, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400490, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400518, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400563, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400563, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400462, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400484, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400457, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400502, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400594, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400588, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400502, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400520, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400520, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400475, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400588, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400594, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400509, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400513, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400596, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400596, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400509, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400530, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400584, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400536, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400610, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400610, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400604, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400457, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400536, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400549, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400548, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400617, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400542, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400542, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400549, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400561, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400475, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400544, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400617, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400561, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400513, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400601, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400601, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400544, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400604, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400548, 'commandId': 1670018247, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400628, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400571, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400603, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400571, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400607, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400607, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400603, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400535, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400535, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400628, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400642, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400642, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400645, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400645, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400629, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400629, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400416, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400416, 'commandId': 1670018797, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400341, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400429, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400341, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400429, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400387, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400387, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400430, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400430, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400598, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400598, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400386, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400383, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400386, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400383, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400408, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400408, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400368, 'commandId': 467, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400488, 'commandId': 478, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400384, 'commandId': 1670020212, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400384, 'commandId': 1670020212, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400395, 'commandId': 1670017840, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400413, 'commandId': 1670017840, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400395, 'commandId': 1670017840, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400413, 'commandId': 1670017840, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400357, 'commandId': 439, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400332, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400335, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400333, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400332, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400333, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400337, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400335, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400337, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400334, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400338, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400343, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400338, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400334, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400354, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400356, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400343, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400358, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400354, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400358, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400385, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400356, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400357, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400385, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400366, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400400, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400402, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400400, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400357, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400402, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400366, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400401, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400360, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400401, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400428, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400360, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400409, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400409, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400418, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400418, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400381, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400381, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400428, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400436, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400436, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400448, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400447, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400431, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400447, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400448, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400431, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400439, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400425, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400425, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400421, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400389, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400390, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400421, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400443, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400439, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400395, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400443, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400523, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400503, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400503, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400470, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400470, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400505, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400456, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400456, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400505, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400523, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400487, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400485, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400487, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400389, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400485, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400390, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400552, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400395, 'commandId': 1670018247, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400531, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400552, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400492, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400529, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400495, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400504, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400495, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400558, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400492, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400504, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400529, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400531, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400558, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400491, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400577, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400577, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400491, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400510, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400510, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400534, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400527, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400534, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400609, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400527, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400609, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400545, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400545, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400574, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400574, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400593, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400593, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400572, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400559, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400572, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400559, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400582, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400613, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400590, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400613, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400590, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400582, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400489, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400622, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400489, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400622, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400600, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400600, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400657, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400576, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400618, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400576, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400631, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400657, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400631, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400618, 'commandId': 1670018247, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400612, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400630, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400612, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400636, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400630, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400660, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400636, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400660, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400651, 'commandId': 1670018247, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400651, 'commandId': 1670018247, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400363, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400370, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400363, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400370, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400407, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400395, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400395, 'commandId': 1670018797, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400391, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400407, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400391, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400397, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400397, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400375, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400375, 'commandId': 1670018797, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400418, 'commandId': 1670018797, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400418, 'commandId': 1670018797, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400349, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400392, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400346, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400349, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400346, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400392, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400398, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400395, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400398, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400395, 'commandId': 1670019186, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400403, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400413, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400351, 'commandId': 1670019186, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400403, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400351, 'commandId': 1670019186, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400395, 'commandId': 1670019309, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400395, 'commandId': 1670019309, 'status': 'FAILED_NO_REPLY', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400409, 'commandId': 466, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400529, 'commandId': 474, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400378, 'commandId': 1670020089, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400378, 'commandId': 1670020089, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400393, 'commandId': 1670020089, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400393, 'commandId': 1670020089, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400424, 'commandId': 1670019309, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400420, 'commandId': 1670019309, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400424, 'commandId': 1670019309, 'status': 'FAILED_AUTH', 'commandType': 'CONNECT_DISCONNECT', 'controlState': None, 'outputState': None, 'mode': None}
+{'nodeId': 400420, 'commandId': 1670019309, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400435, 'commandId': 468, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400540, 'commandId': 473, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400331, 'commandId': 1670020089, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400396, 'commandId': 1670020089, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400331, 'commandId': 1670020089, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400396, 'commandId': 1670020089, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}

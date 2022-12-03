@@ -1,0 +1,1 @@
+{'nodeId': 603899, 'meterNumber': 'IJ020065', 'meterMaker': 'ISKMT260', 'gwId': '866340057563713', 'sinkId': 'sink2', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-03T08:36:19.624693'}
