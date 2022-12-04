@@ -12,6 +12,9 @@ DATA_DIRECTORY = os.path.join(ABSOLUTE_PATH, RELATIVE_PATH)
 if not os.path.exists(DATA_DIRECTORY):
     os.mkdir(DATA_DIRECTORY)
 
+today = date.today()
+slot_dict = {}
+
 
 class Consumer(threading.Thread):
     daemon = True
@@ -24,8 +27,8 @@ class Consumer(threading.Thread):
         consumer.subscribe(['raw-sensor-data'])
 
         for message in consumer:
+            # print(message)
             node_id = str(message.value['nodeId'])
-            today = date.today()
             directory_path = os.path.join(DATA_DIRECTORY, str(today))
             directory_exists = os.path.exists(directory_path)
             if not directory_exists:
@@ -39,14 +42,33 @@ class Consumer(threading.Thread):
                 f = open(directory_path + '\\' + folder_name_profile + '\\' + node_id + '.txt', 'a')
                 f.write(str(message.value) + '\n')
                 f.close()
+                # print("Instant :", str(message.value))
             if str(message.value['type']) == 'Event_Profile':
                 f = open(directory_path + '\\' + folder_name_profile + '\\' + node_id + '.txt', 'a')
                 f.write(str(message.value) + '\n')
                 f.close()
             if str(message.value['type']) == 'Load_Profile':
-                f = open(directory_path + '\\' + folder_name_profile + '\\' + node_id + '.txt', 'a')
-                f.write(str(message.value) + '\n')
-                f.close()
+                data_obis = message.value['dataObis']
+                data = message.value['data']
+                scalar_obis = message.value['scalarObis']
+                scalar = message.value['scalar']
+                condition = len(data_obis) < 1 or len(data) < 1 or len(scalar_obis) < 1 or len(scalar) < 1
+                if not condition:
+                    data_slot = len(data)
+                    for d in data:
+                        load_date_time = str(d[0]).split(' ')
+                        load_date = load_date_time[0]
+                        if load_date == str("2022-12-03"):
+                            f = open(directory_path + '\\' + folder_name_profile + '\\' + node_id + '.txt', 'a')
+                            f.write(str(message.value) + '\n')
+                            f.close()
+                            slot_dict[node_id] = data_slot
+                            slot_count = "Slot_Count"
+                            if not os.path.exists(directory_path + '\\' + folder_name_profile + '\\' + slot_count):
+                                os.mkdir(directory_path + '\\' + folder_name_profile + '\\' + slot_count)
+                            slot_list = open(directory_path + '\\' + folder_name_profile + '\\' + slot_count + "\\"+"slotcount.txt", 'a')
+                            slot_list.write(node_id + " : " + str(data_slot) + "\n")
+                            slot_list.close()
             if str(message.value['type']) == 'Billing_Profile':
                 f = open(directory_path + '\\' + folder_name_profile + '\\' + node_id + '.txt', 'a')
                 f.write(str(message.value) + '\n')
@@ -55,7 +77,6 @@ class Consumer(threading.Thread):
                 f = open(directory_path + '\\' + folder_name_profile + '\\' + node_id + '.txt', 'a')
                 f.write(str(message.value) + '\n')
                 f.close()
-
             if message.value.get('commandId') is None:
                 if message.value['type'] != 'Event_Profile':
                     if len(message.value['dataObis']) == 0 or len(message.value['data'][0]) == 0 or len(
@@ -83,6 +104,8 @@ def main():
     for t in threads:
         t.start()
         time.sleep(10)
+        print("Outside for loop")
+        print(slot_dict)
     while True:
         pass
 
@@ -98,4 +121,5 @@ if __name__ == "__main__":
     except Exception as e:
         print(e)
     finally:
+        # print(slot_dict)
         print('\nConsumer stopped')

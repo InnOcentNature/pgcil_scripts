@@ -1,4 +1,0 @@
-{'nodeId': 604386, 'meterNumber': 'IL0020242', 'meterMaker': 'ISKME260', 'gwId': '861261056664564', 'sinkId': 'sink2', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-03T12:37:52.692478'}
-{'nodeId': 604386, 'meterNumber': 'IL0020242', 'meterMaker': 'ISKME260', 'gwId': '861261056664564', 'sinkId': 'sink2', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-03T12:40:24.305033'}
-{'nodeId': 604386, 'meterNumber': 'IL0020242', 'meterMaker': 'ISKME260', 'gwId': '861261056664564', 'sinkId': 'sink2', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-03T13:46:32.176717'}
-{'nodeId': 604386, 'meterNumber': 'IL0020242', 'meterMaker': 'ISKME260', 'gwId': '861261056664564', 'sinkId': 'sink4', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-03T14:46:21.084509'}

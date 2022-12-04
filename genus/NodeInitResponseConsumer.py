@@ -27,7 +27,6 @@ class NodeInitConsumer(threading.Thread):
         for message in consumer:
             node_id = str(message.value['nodeId'])
             meterNumber = message.value['meterNumber']
-            # if int(node_id) in genus_master_list.NODE_LIST_6F:
             node_file = open(DATA_DIRECTORY + "\\" + node_id + "_" + meterNumber + ".txt", 'a')
             node_file.write(str(message.value) + '\n')
             node_file.close()

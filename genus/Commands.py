@@ -398,11 +398,11 @@ def load(node_id, hideCommand):
             "properties": [
                 {
                     'propName': 'P_FROM',
-                    'propValue': str(round(week_back_in_sec / 1000))
+                    'propValue': "1669915800"
                 },
                 {
                     'propName': 'P_TO',
-                    'propValue': str(round(today_in_sec / 1000))
+                    'propValue': "1670094000"
                 }
             ]
         }
@@ -864,6 +864,59 @@ def enableAll(node_id):
         logging.error(error)
 
 
+def mdReset(node_id):
+    try:
+        url = BASE_URL + '/command/mdReset'
+        params = {
+            "nodeId": node_id,
+            "commandId": cmd_id
+        }
+        headers = {"Authorization": token}
+        response = requests.post(url=url, params=params, headers=headers)
+        logging.info(response.url)
+        if response.status_code == 200:
+            logging.info(response)
+            logging.info(response.text)
+        else:
+            logging.error(response)
+            logging.error(response.text)
+    except requests.exceptions.HTTPError as error:
+        logging.error(error)
+
+
+def setProfileLogInterval(node_id):
+    try:
+        url = BASE_URL + '/command/setProfileLogInterval'
+        params = {
+            "nodeId": node_id,
+            "commandId": cmd_id,
+            "interval": 1800,
+            "meterMaker": "GENUS"
+        }
+        headers = {"Authorization": token}
+        response = requests.post(url=url, params=params, headers=headers)
+        logging.info(response.url)
+        if response.status_code == 200:
+            logging.info(response)
+            logging.info(response.text)
+        else:
+            logging.error(response)
+            logging.error(response.text)
+    except requests.exceptions.HTTPError as error:
+        logging.error(error)
+
+
+get_commands = [getConnectState, getBillingDate, getMeteringMode, getLockOutPeriod, getLoadCurtail, getMeterDetails,
+                getIntegrationPeriodTime, getPrepaidDetails, getProfileLogInterval, listCommands, meterTimeSync,
+                disconnect, connect]
+
+profile_commands = [billing, instant, load, midnight]
+
+event_commands = [rf_command_event_volt, rf_command_event_curr, rf_command_event_power, rf_command_event_tran,
+                  rf_command_event_other]
+
+set_commands = [sendMeterPassword, setBillingDate, setIntegrationPeriodTime, setLoadCurtail, setLockOutPeriod,
+                setMeteringMode, setPrepaidMode, setProfileLogInterval]
 if __name__ == '__main__':
     # ABSOLUTE_PATH = os.path.dirname(__file__)
     # MESSAGE_DIR = os.path.join(ABSOLUTE_PATH, "command_response\\Message")
@@ -875,31 +928,81 @@ if __name__ == '__main__':
     #         date_str = d
     # DATE_FOLDER = os.path.join(MESSAGE_DIR, date_str)
     #
-    # file_name = "20_P_READ_LOAD_EXECUTED.txt"
+    # file_name = "9A_P_READ_LOAD_EXECUTED.txt"
+    # file_name1 = "20_P_READ_LOAD_EXECUTED.txt"
     # excuted_nodes_file = open(DATE_FOLDER + "\\" + file_name, 'r')
+    # excuted_nodes_file1 = open(DATE_FOLDER + "\\" + file_name1, 'r')
     #
     # excuted_nodes = []
-    master_nodes = genus_master_list.NODE_LIST_20
-
+    # excuted_nodes1 = []
+    # master_nodes_6F = genus_master_list.NODE_LIST_6F
+    # master_nodes_9A = genus_master_list.NODE_LIST_9A
+    # master_nodes_20 = genus_master_list.NODE_LIST_20
+    # all_list = [master_nodes_6F, master_nodes_9A, master_nodes_20]
     try:
-        count = 1
-        for node in master_nodes:
-            getConnectState(node, False)
-            time.sleep(120)
-            print(count)
-            count = count + 1
+        load(620012, False)
+        # c = 1
+        # for command in profile_commands:
+        #     print(c)
+        #     if c != 1:
+        #         command(620012, False)
+        #     time.sleep(130)
+        #     c += 1
+        # load(400757, False)
+        # maxLimit = 350
+        # offsetLimit = 300
+        # for List in all_list:
+        #     count6f = 1
+        #     print(List)
+        #     for node1 in List:
+        #         if count6f < maxLimit and count6f > offsetLimit :
+        #             print(node1, count6f)
+        #             load(node1, True)
+        #         count6f = count6f + 1
+
+        # count9a = 1
+        # for node1 in master_nodes_9A:
+        #     if count9a > 20:
+        #         break
+        #     load(node1, True)
+        #     print(count9a)
+        #     count9a = count9a + 1
+        #
+        # count20 = 1
+        # for node1 in master_nodes_20:
+        #     if count20 > 20:
+        #         break
+        #     load(node1, True)
+        #     print(count20)
+        #     count20 = count20 + 1
+
         # for line in excuted_nodes_file.readlines():
         #     line = line.replace("\n", "")
         #     excuted_nodes.append(int(line))
+        #
+        # for L in excuted_nodes_file1.readlines():
+        #     L = L.replace("\n", "")
+        #     excuted_nodes1.append(int(L))
+        #
         # node_count = 1
-        # for master_node in master_nodes:
+        # for master_node in master_nodes_9A:
         #     if master_node in excuted_nodes:
         #         print("Already excuted : ", str(master_node))
         #         print(node_count)
         #     else:
-        #         load(master_node, False)
-        #         time.sleep(30)
+        #         load(master_node, True)
+        #         time.sleep(1)
         #         print(node_count)
         #     node_count = node_count + 1
+        #
+        # c = 1
+        # for m_node in master_nodes_20:
+        #     if m_node in excuted_nodes1:
+        #         print("Already excuted : ", str(m_node))
+        #         print(c)
+        #     else:
+        #         load(m_node, True)
+        #         time.sleep(1)
+        #         print(c)
     except Exception as error:
         print(error)

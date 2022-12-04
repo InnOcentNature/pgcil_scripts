@@ -646,7 +646,7 @@ def setBillingDate(node_id):
         headers = {"Authorization": token}
         params = {'nodeId': node_id,
                   'commandId': cmd_id,
-                  'billingDate': 10,
+                  'billingDate': 4,
                   'meterMaker': 'GENUS'}
         response = requests.post(url, params=params, headers=headers)
         logging.info(response.url)
@@ -865,51 +865,54 @@ def enableAll(node_id):
 
 
 if __name__ == '__main__':
-    # ABSOLUTE_PATH = os.path.dirname(__file__)
-    # MESSAGE_DIR = os.path.join(ABSOLUTE_PATH, "command_response\\Message")
-    #
-    # today = str(datetime.date.today())
-    # date_str = ''
-    # for d in os.listdir(MESSAGE_DIR):
-    #     if d == today:
-    #         date_str = d
-    # DATE_FOLDER = os.path.join(MESSAGE_DIR, date_str)
-    #
-    # file_name = "20_DISABLE_ALL_ACCEPTED.txt"
-    # excuted_nodes_file = open(DATE_FOLDER + "\\" + file_name, 'r')
-    #
-    # excuted_nodes = []
-    master_nodes = isk_master_list.NODE_LIST_20
+    ABSOLUTE_PATH = os.path.dirname(__file__)
+    MESSAGE_DIR = os.path.join(ABSOLUTE_PATH, "command_response\\Message")
+
+    today = str(datetime.date.today())
+    date_str = ''
+    for d in os.listdir(MESSAGE_DIR):
+        if d == today:
+            date_str = d
+    DATE_FOLDER = os.path.join(MESSAGE_DIR, date_str)
+
+    file_name = "9A_SET_BILLING_DATE_EXECUTED.txt"
+    excuted_nodes_file = open(DATE_FOLDER + "\\" + file_name, 'r')
+
+    excuted_nodes = []
+    # master_nodes = isk_master_list.NODE_LIST_6F
 
     try:
+        # count6f = 1
+        # for node in isk_master_list.NARESH_NODE_ID:
+        #     setBillingDate(node)
+        #     print(count6f)
+        #     count6f = count6f + 1
+        #     time.sleep(1)
+
         # get_commands = [getConnectState, getBillingDate, getMeteringMode, getLockOutPeriod, getLoadCurtail,
         #                 getIntegrationPeriodTime, getPrepaidDetails, getProfileLogInterval, listCommands, meterTimeSync]
         # rf_methods = [billing, instant, load, midnight, rf_command_event_volt, rf_command_event_curr,
         #               rf_command_event_power, rf_command_event_tran,
         #               rf_command_event_other]
-        # load(620014, False)
-        # for command in rf_methods:
-        #     command(620014, False)
-        #     time.sleep(120)
-        count = 1
-        for node in master_nodes:
-            disableAll(node)
-            time.sleep(1)
-            print(count)
-            count = count + 1
-        # for line in excuted_nodes_file.readlines():
-        #     line = line.replace("\n", "")
-        #     excuted_nodes.append(int(line))
-        # node_count = 1
-        # for master_node in master_nodes:
-        #     if master_node in excuted_nodes:
-        #         print("Already excuted : ", str(master_node))
-        #         print(node_count)
-        #     else:
-        #         disableAll(master_node)
-        #         time.sleep(1)
-        #         print(node_count)
-        #     node_count = node_count + 1
+        # count6f = 1
+        # for node in master_nodes:
+        #     connect(node)
+        #     time.sleep(1)
+        #     print(count6f)
+        #     count6f = count6f + 1
+        for line in excuted_nodes_file.readlines():
+            line = line.replace("\n", "")
+            excuted_nodes.append(int(line))
+        node_count = 1
+        for master_node in isk_master_list.NARESH_NODE_ID:
+            if master_node in excuted_nodes:
+                print("Already excuted : ", str(master_node))
+                print(node_count)
+            else:
+                setBillingDate(master_node)
+                time.sleep(1)
+                print(node_count)
+            node_count = node_count + 1
     except Exception as error:
         print(error)
     finally:

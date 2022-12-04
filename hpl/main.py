@@ -500,7 +500,7 @@ def probus_app_data(data):
                 node_id_set.add(str(data.source_address))
 
                 dcu_node_data[str(data.gw_id)] = node_id_set
-                # dcu_node_data[str(data.gw_id)+"_"+'count'] = len(node_id_set)
+                # dcu_node_data[str(data.gw_id)+"_"+'count6f'] = len(node_id_set)
 
                 # print(type(d))
                 # print('d' + d)
@@ -508,7 +508,7 @@ def probus_app_data(data):
                 # dcu_node_data.update({dcu_node_data[str(data.gw_id)]:node_id_set.add({str(data.source_address)})})
             else:
                 dcu_node_data[str(data.gw_id)] = {str(data.source_address)}
-                # dcu_node_data[str(data.gw_id) + "_" + 'count']=1
+                # dcu_node_data[str(data.gw_id) + "_" + 'count6f']=1
             f.write(str((datetime.today())) + "#" + str(data.destination_endpoint) + "(" + str(
                 len(data.data_payload)) + ")#" + data.sink_id + "#" + str(data.destination_address) + "#" + str(
                 data.travel_time_ms) + "#" + str(data.hop_count) + "#" + data.data_payload.hex() + "\n")

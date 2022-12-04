@@ -1,0 +1,993 @@
+{'nodeId': 620012, 'commandId': 1670155359, 'status': 'ACCEPTED', 'commandType': 'GET_CONNECT_STATE'}
+{'nodeId': 620012, 'commandId': 1670155359, 'status': 'EXECUTED', 'commandType': 'GET_CONNECT_STATE', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'ACCEPTED', 'commandType': 'GET_CONNECT_STATE'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'EXECUTED', 'commandType': 'GET_CONNECT_STATE', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'ACCEPTED', 'commandType': 'GET_BILLING_DATE'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'EXECUTED', 'commandType': 'GET_BILLING_DATE', 'billingDate': '10'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'ACCEPTED', 'commandType': 'GET_METERING_MODE'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'EXECUTED', 'commandType': 'GET_METERING_MODE', 'mode': 'FORWARD'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'ACCEPTED', 'commandType': 'GET_LOCKOUT_PERIOD'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'EXECUTED', 'commandType': 'GET_LOCKOUT_PERIOD', 'autoReconnectTimeInterval': '900', 'lockoutTime': '1800', 'attempts': '3', 'activationTime': -19800}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'ACCEPTED', 'commandType': 'GET_LOAD_CURTAIL_LIMIT'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'EXECUTED', 'commandType': 'GET_LOAD_CURTAIL_LIMIT', 'loadLimit': '1800'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'ACCEPTED', 'commandType': 'GET_INTEGRATION_PERIOD_TIME'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'EXECUTED', 'commandType': 'GET_INTEGRATION_PERIOD_TIME', 'integrationPeriodTime': '1800'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'ACCEPTED', 'commandType': 'GET_PREPAID_DETAILS'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'EXECUTED', 'commandType': 'GET_PREPAID_DETAILS', 'prepaid': True, 'lastTokenRechargeAmount': '700', 'lastTokenRechargeTime': 1669751220, 'totalAmountAtLastRecharge': '800', 'currentBalanceAmount': '500', 'currentBalanceTime': 1669769220}
+{'nodeId': 400015, 'commandId': 167015595, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400015, 'commandId': 167015595, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'ACCEPTED', 'commandType': 'GET_PROFILE_LOG_INTERVAL'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'EXECUTED', 'commandType': 'GET_PROFILE_LOG_INTERVAL', 'interval': '900'}
+{'nodeId': 400978, 'commandId': 962648900, 'status': 'ACCEPTED', 'commandType': 'SET_METER_PASSWORD'}
+{'nodeId': 400065, 'commandId': 167015607, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400175, 'commandId': 167015607, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400753, 'commandId': 167015607, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400994, 'commandId': 167015607, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400149, 'commandId': 167015607, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400149, 'commandId': 167015607, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400065, 'commandId': 167015607, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400836, 'commandId': 167015607, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400753, 'commandId': 167015607, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400994, 'commandId': 167015607, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400740, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400015, 'commandId': 167015607, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400902, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400917, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400917, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400740, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400175, 'commandId': 167015607, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400926, 'commandId': 167015607, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400836, 'commandId': 167015607, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400794, 'commandId': 167015607, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400043, 'commandId': 167015607, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400926, 'commandId': 167015607, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400990, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400015, 'commandId': 167015607, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400043, 'commandId': 167015607, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400902, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400990, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400762, 'commandId': 167015607, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400853, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400929, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400758, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400736, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400669, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400669, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400105, 'commandId': 167015607, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400105, 'commandId': 167015607, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400700, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400853, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400704, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400794, 'commandId': 167015607, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400736, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400556, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400223, 'commandId': 167015607, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400223, 'commandId': 167015607, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400958, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400556, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400700, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400784, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400762, 'commandId': 167015607, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400701, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400758, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400214, 'commandId': 167015607, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400958, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400711, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400694, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400993, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400701, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400940, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400940, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400830, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400784, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400703, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400703, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400214, 'commandId': 167015607, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400692, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400964, 'commandId': 167015610, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400964, 'commandId': 167015610, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400362, 'commandId': 167015610, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400362, 'commandId': 167015610, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400711, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400694, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400692, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400686, 'commandId': 167015610, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400929, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400686, 'commandId': 167015610, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400704, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400993, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400455, 'commandId': 167015610, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400780, 'commandId': 167015610, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400953, 'commandId': 167015610, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400959, 'commandId': 167015611, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400924, 'commandId': 167015610, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400776, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400970, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400776, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400780, 'commandId': 167015610, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400862, 'commandId': 167015611, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400884, 'commandId': 167015607, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400840, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400621, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400621, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400455, 'commandId': 167015610, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400794, 'commandId': 167015607, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400970, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400764, 'commandId': 167015610, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400764, 'commandId': 167015610, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400741, 'commandId': 167015610, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400953, 'commandId': 167015610, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400356, 'commandId': 167015611, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400959, 'commandId': 167015611, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400682, 'commandId': 167015611, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400343, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400343, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400830, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400862, 'commandId': 167015611, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400757, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400682, 'commandId': 167015611, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400757, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400984, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400984, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400737, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400924, 'commandId': 167015610, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400985, 'commandId': 167015611, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400992, 'commandId': 167015612, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400760, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'ACCEPTED', 'commandType': 'METER_TIME_SYNC'}
+{'nodeId': 400992, 'commandId': 167015612, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400985, 'commandId': 167015611, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400661, 'commandId': 167015612, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400661, 'commandId': 167015612, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400760, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400803, 'commandId': 167015612, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400803, 'commandId': 167015612, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400813, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400939, 'commandId': 167015611, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400497, 'commandId': 167015612, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400905, 'commandId': 167015610, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400905, 'commandId': 167015610, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400737, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400743, 'commandId': 167015612, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400866, 'commandId': 167015611, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400743, 'commandId': 167015612, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400581, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400581, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400810, 'commandId': 167015611, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400497, 'commandId': 167015612, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400840, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400810, 'commandId': 167015611, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400609, 'commandId': 167015612, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400731, 'commandId': 167015610, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400356, 'commandId': 167015611, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400500, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400812, 'commandId': 167015610, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400939, 'commandId': 167015611, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400788, 'commandId': 167015612, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400884, 'commandId': 167015607, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400925, 'commandId': 167015611, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400500, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400389, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400725, 'commandId': 167015611, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400725, 'commandId': 167015611, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400739, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400739, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400866, 'commandId': 167015611, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400793, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400731, 'commandId': 167015610, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400875, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400422, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400422, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400583, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400473, 'commandId': 167015612, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400473, 'commandId': 167015612, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400575, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400575, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400812, 'commandId': 167015610, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400494, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400389, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400344, 'commandId': 167015612, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400714, 'commandId': 167015610, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400609, 'commandId': 167015612, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400793, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400988, 'commandId': 167015611, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400988, 'commandId': 167015611, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400834, 'commandId': 167015611, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400828, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400714, 'commandId': 167015610, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400828, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400379, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400379, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400374, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400466, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400827, 'commandId': 167015610, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400827, 'commandId': 167015610, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400374, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400349, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400349, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400381, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400741, 'commandId': 167015610, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400782, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400788, 'commandId': 167015612, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400494, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400466, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400659, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400344, 'commandId': 167015612, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400654, 'commandId': 167015611, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400599, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400599, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400751, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400834, 'commandId': 167015611, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400840, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400875, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400654, 'commandId': 167015611, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400722, 'commandId': 167015610, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400751, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400925, 'commandId': 167015611, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400782, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400583, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400768, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400481, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400759, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400864, 'commandId': 167015611, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400722, 'commandId': 167015610, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400864, 'commandId': 167015611, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400747, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400747, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400813, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400481, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400381, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400453, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400729, 'commandId': 167015612, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400685, 'commandId': 167015608, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400759, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400680, 'commandId': 167015612, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400680, 'commandId': 167015612, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400392, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400434, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400918, 'commandId': 167015611, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400434, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400341, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400918, 'commandId': 167015611, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400729, 'commandId': 167015612, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400877, 'commandId': 167015612, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400392, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400450, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400903, 'commandId': 167015612, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400432, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400771, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400903, 'commandId': 167015612, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400675, 'commandId': 167015610, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400675, 'commandId': 167015610, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400659, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400771, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400432, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400452, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400452, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400486, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400728, 'commandId': 167015612, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400440, 'commandId': 167015616, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400768, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400877, 'commandId': 167015612, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400451, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400878, 'commandId': 167015612, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400662, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400777, 'commandId': 167015610, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400878, 'commandId': 167015612, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400499, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400951, 'commandId': 167015612, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400453, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400995, 'commandId': 167015616, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400995, 'commandId': 167015616, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400660, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400660, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400935, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400486, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400489, 'commandId': 167015616, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400489, 'commandId': 167015616, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400450, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400440, 'commandId': 167015616, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400935, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400951, 'commandId': 167015612, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400499, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400685, 'commandId': 167015608, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400690, 'commandId': 167015609, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400662, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400690, 'commandId': 167015609, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400560, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400728, 'commandId': 167015612, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400858, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400341, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400405, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400858, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400698, 'commandId': 167015612, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400451, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400702, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400612, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400405, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400367, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400645, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400505, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400742, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400505, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400702, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400670, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400698, 'commandId': 167015612, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400742, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400560, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400797, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400797, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400653, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400653, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400477, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400855, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400855, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400612, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400355, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400756, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400777, 'commandId': 167015610, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400890, 'commandId': 167015611, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400355, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400916, 'commandId': 167015611, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'DISCONNECTED', 'outputState': 'DISCONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'EXECUTED', 'commandType': 'METER_TIME_SYNC', 'meterTime': 1670175927, 'nicTime': 1670175927}
+{'nodeId': 400645, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400480, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400367, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400916, 'commandId': 167015611, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 620012, 'commandId': 1670155525, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'TF6D9.325130'}
+{'nodeId': 400513, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400756, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400670, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400789, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400477, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400789, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400911, 'commandId': 925221544, 'status': 'ACCEPTED', 'commandType': 'SET_METER_PASSWORD'}
+{'nodeId': 400483, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400483, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400513, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400480, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400635, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400570, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400551, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400402, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400635, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400570, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400508, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400508, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400890, 'commandId': 167015611, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400551, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400402, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400456, 'commandId': 167015614, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400544, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400456, 'commandId': 167015614, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400378, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400544, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400378, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400636, 'commandId': 167015615, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 620012, 'commandId': 1670156234, 'status': 'ACCEPTED', 'commandType': 'CONNECT_DISCONNECT'}
+{'nodeId': 400406, 'commandId': 167015616, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400406, 'commandId': 167015616, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 620012, 'commandId': 1670156234, 'status': 'EXECUTED', 'commandType': 'CONNECT_DISCONNECT', 'controlState': 'CONNECTED', 'outputState': 'CONNECTED', 'mode': 'MODE_4'}
+{'nodeId': 400636, 'commandId': 167015615, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400994, 'commandId': 167015632, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400065, 'commandId': 167015631, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400015, 'commandId': 167015631, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400223, 'commandId': 167015632, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400043, 'commandId': 167015632, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400614, 'commandId': 167015633, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400214, 'commandId': 167015632, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400936, 'commandId': 167015633, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400762, 'commandId': 167015632, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400669, 'commandId': 167015632, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400794, 'commandId': 167015632, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400105, 'commandId': 167015632, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400343, 'commandId': 167015633, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400685, 'commandId': 167015633, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400701, 'commandId': 167015632, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400917, 'commandId': 167015632, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400149, 'commandId': 167015632, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400455, 'commandId': 167015633, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400706, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400748, 'commandId': 167015632, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400704, 'commandId': 167015632, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400621, 'commandId': 167015633, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400692, 'commandId': 167015633, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400727, 'commandId': 167015633, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400556, 'commandId': 167015633, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400497, 'commandId': 167015635, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400722, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400711, 'commandId': 167015632, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400356, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400959, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400666, 'commandId': 167015633, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400581, 'commandId': 167015635, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400344, 'commandId': 167015635, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400757, 'commandId': 167015633, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400500, 'commandId': 167015635, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400812, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400830, 'commandId': 167015633, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400362, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400828, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400422, 'commandId': 167015635, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400381, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400951, 'commandId': 167015635, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400731, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400880, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400609, 'commandId': 167015635, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400449, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400697, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400953, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400675, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400481, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400389, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400654, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400864, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400473, 'commandId': 167015635, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400990, 'commandId': 167015632, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400827, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400770, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400432, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400788, 'commandId': 167015635, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400858, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400472, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400392, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400466, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400379, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400599, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400659, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400043, 'commandId': 167015632, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400434, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400450, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400722, 'commandId': 533868960, 'status': 'ACCEPTED', 'commandType': 'SET_METER_PASSWORD'}
+{'nodeId': 400700, 'commandId': 167015632, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400494, 'commandId': 167015635, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400662, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400995, 'commandId': 167015638, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400355, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400853, 'commandId': 679716823, 'status': 'ACCEPTED', 'commandType': 'SET_METER_PASSWORD'}
+{'nodeId': 400481, 'commandId': 167015637, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400756, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400486, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400878, 'commandId': 167015635, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400670, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400859, 'commandId': 977166710, 'status': 'ACCEPTED', 'commandType': 'SET_METER_PASSWORD'}
+{'nodeId': 400499, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400857, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400935, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400789, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400939, 'commandId': 167015635, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400924, 'commandId': 984259936, 'status': 'ACCEPTED', 'commandType': 'SET_METER_PASSWORD'}
+{'nodeId': 400740, 'commandId': 167015632, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400451, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 620012, 'commandId': 1670156416, 'status': 'ACCEPTED', 'commandType': 'P_READ_BILLING'}
+{'nodeId': 400771, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400742, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400440, 'commandId': 167015638, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400863, 'commandId': 74806711, 'status': 'ACCEPTED', 'commandType': 'SET_METER_PASSWORD'}
+{'nodeId': 400818, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400702, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400645, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400456, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400756, 'commandId': 251040290, 'status': 'ACCEPTED', 'commandType': 'SET_METER_PASSWORD'}
+{'nodeId': 400489, 'commandId': 167015638, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400570, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400214, 'commandId': 167015632, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400405, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400635, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400500, 'commandId': 167015635, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400508, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400780, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400819, 'commandId': 167015635, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400660, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400612, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400924, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400378, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400985, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400422, 'commandId': 167015635, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400866, 'commandId': 167015634, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400505, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400544, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400653, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400771, 'commandId': 487247754, 'status': 'ACCEPTED', 'commandType': 'SET_METER_PASSWORD'}
+{'nodeId': 400105, 'commandId': 167015632, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400728, 'commandId': 167015635, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400742, 'commandId': 140102601, 'status': 'ACCEPTED', 'commandType': 'SET_METER_PASSWORD'}
+{'nodeId': 400434, 'commandId': 167015637, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400935, 'commandId': 813114673, 'status': 'ACCEPTED', 'commandType': 'SET_METER_PASSWORD'}
+{'nodeId': 400996, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400449, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400510, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400480, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400939, 'commandId': 236949031, 'status': 'ACCEPTED', 'commandType': 'SET_METER_PASSWORD'}
+{'nodeId': 400402, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400223, 'commandId': 167015632, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400065, 'commandId': 167015631, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400015, 'commandId': 167015631, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400560, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400621, 'commandId': 167015633, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400544, 'commandId': 167015637, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400477, 'commandId': 167015636, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400551, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400367, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400636, 'commandId': 167015637, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400362, 'commandId': 167015634, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 620012, 'commandId': 1670156508, 'status': 'ACCEPTED', 'commandType': 'P_READ_BILLING'}
+{'nodeId': 400612, 'commandId': 167015637, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400508, 'commandId': 167015637, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400379, 'commandId': 167015636, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 620012, 'commandId': 1670156508, 'status': 'EXECUTED', 'commandType': 'P_READ_BILLING'}
+{'nodeId': 400499, 'commandId': 167015636, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400818, 'commandId': 167015634, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400903, 'commandId': 167015635, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400974, 'commandId': 167015613, 'status': 'ACCEPTED', 'commandType': 'LIST_COMMANDS'}
+{'nodeId': 400974, 'commandId': 167015613, 'status': 'EXECUTED', 'commandType': 'LIST_COMMANDS', 'command': None}
+{'nodeId': 400698, 'commandId': 60552122, 'status': 'ACCEPTED', 'commandType': 'SET_METER_PASSWORD'}
+{'nodeId': 400975, 'commandId': 822002991, 'status': 'ACCEPTED', 'commandType': 'SET_METER_PASSWORD'}
+{'nodeId': 400065, 'commandId': 167015692, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400065, 'commandId': 167015692, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 620012, 'commandId': 1670157042, 'status': 'ACCEPTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 620012, 'commandId': 1670157042, 'status': 'EXECUTED', 'commandType': 'P_READ_INSTANT'}
+{'nodeId': 400065, 'commandId': 167015717, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400149, 'commandId': 167015717, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400047, 'commandId': 167015717, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400966, 'commandId': 167015717, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400065, 'commandId': 167015717, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400313, 'commandId': 167015717, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400753, 'commandId': 167015718, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400047, 'commandId': 167015717, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400947, 'commandId': 167015718, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400794, 'commandId': 167015717, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400794, 'commandId': 167015717, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400753, 'commandId': 167015718, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400966, 'commandId': 167015717, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400214, 'commandId': 167015717, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400313, 'commandId': 167015717, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'GF6D9.325130'}
+{'nodeId': 400149, 'commandId': 167015717, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'GF6D9.325130'}
+{'nodeId': 400043, 'commandId': 167015717, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400043, 'commandId': 167015717, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400875, 'commandId': 167015718, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400748, 'commandId': 167015718, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400947, 'commandId': 167015718, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400836, 'commandId': 167015717, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400214, 'commandId': 167015717, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400902, 'commandId': 167015718, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400875, 'commandId': 167015718, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400223, 'commandId': 167015717, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400223, 'commandId': 167015717, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'GF6D9.325130'}
+{'nodeId': 400685, 'commandId': 167015718, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400105, 'commandId': 167015717, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400836, 'commandId': 167015717, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400666, 'commandId': 167015718, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400685, 'commandId': 167015718, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400015, 'commandId': 167015717, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400666, 'commandId': 167015718, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400776, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400692, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400343, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400917, 'commandId': 167015718, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400902, 'commandId': 167015718, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400748, 'commandId': 167015718, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400853, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400767, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400015, 'commandId': 167015717, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400105, 'commandId': 167015717, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400853, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400343, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400917, 'commandId': 167015718, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400813, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400936, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400830, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400777, 'commandId': 167015720, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400964, 'commandId': 167015720, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400924, 'commandId': 167015720, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400722, 'commandId': 167015720, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400813, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400621, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400720, 'commandId': 167015718, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400772, 'commandId': 167015720, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400692, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400936, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400964, 'commandId': 167015720, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400772, 'commandId': 167015720, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400621, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400722, 'commandId': 167015720, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400356, 'commandId': 167015721, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400204, 'commandId': 167015717, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400744, 'commandId': 167015720, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400776, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400924, 'commandId': 167015720, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400703, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400777, 'commandId': 167015720, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400556, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400447, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400767, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400356, 'commandId': 167015721, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400455, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400822, 'commandId': 167015720, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400784, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400757, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400455, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400556, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400830, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400720, 'commandId': 167015718, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400822, 'commandId': 167015720, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400703, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400992, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400940, 'commandId': 766257992, 'status': 'ACCEPTED', 'commandType': 'SET_METER_PASSWORD'}
+{'nodeId': 400970, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400864, 'commandId': 167015721, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400970, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400744, 'commandId': 167015720, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400447, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400866, 'commandId': 167015721, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400866, 'commandId': 167015721, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400743, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400869, 'commandId': 167015721, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400988, 'commandId': 167015721, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400869, 'commandId': 167015721, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400864, 'commandId': 167015721, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400757, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400684, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400204, 'commandId': 167015717, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400918, 'commandId': 167015721, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400784, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400992, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400675, 'commandId': 167015720, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400581, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400743, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400675, 'commandId': 167015720, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400583, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400918, 'commandId': 167015721, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400803, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400684, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400957, 'commandId': 167015721, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400848, 'commandId': 167015720, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400581, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400680, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400713, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400713, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400803, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400934, 'commandId': 167015721, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400827, 'commandId': 167015720, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400583, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400959, 'commandId': 167015720, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400731, 'commandId': 167015720, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400999, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400765, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400765, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400349, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400724, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400957, 'commandId': 167015721, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400706, 'commandId': 167015720, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400815, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400988, 'commandId': 167015721, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400793, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400848, 'commandId': 167015720, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400959, 'commandId': 167015720, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400389, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400706, 'commandId': 167015720, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400680, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400834, 'commandId': 167015721, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400609, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400647, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400389, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400714, 'commandId': 167015720, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400999, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400422, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400341, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400996, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400724, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400452, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400880, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400647, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400880, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400815, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400810, 'commandId': 167015721, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400834, 'commandId': 167015721, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400930, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400453, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400714, 'commandId': 167015720, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400828, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400797, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400381, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400609, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400810, 'commandId': 167015721, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400930, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400996, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400934, 'commandId': 167015721, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400422, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400756, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400670, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400560, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400827, 'commandId': 167015720, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400349, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400731, 'commandId': 167015720, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400670, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400341, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400556, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400811, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400473, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400453, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400452, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400793, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400481, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400697, 'commandId': 167015720, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400381, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400935, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400789, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400756, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400797, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400677, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400811, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400472, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400828, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400697, 'commandId': 167015720, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400342, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400481, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400473, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400783, 'commandId': 167015721, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400662, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400472, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400702, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400702, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400935, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400654, 'commandId': 167015721, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400769, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400783, 'commandId': 167015721, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400662, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400654, 'commandId': 167015721, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400344, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400677, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400634, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400634, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400483, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400342, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400723, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400723, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400434, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400770, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400599, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400742, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400769, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400781, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400483, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400789, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400434, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400344, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400500, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400893, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400742, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400450, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400450, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400958, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400500, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400770, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400951, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400575, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400575, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400913, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400499, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400958, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400408, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400355, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400560, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400367, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400695, 'commandId': 167015720, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400893, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400599, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400645, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400645, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400408, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400993, 'commandId': 167015719, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400659, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400510, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400510, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400367, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400951, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400499, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400440, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400659, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400993, 'commandId': 167015719, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400355, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400440, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400486, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400489, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400486, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400781, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400913, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400477, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400551, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400695, 'commandId': 167015720, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400686, 'commandId': 167015720, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400456, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400551, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400379, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400379, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400635, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400505, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400489, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400505, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400544, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400570, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400653, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400653, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400508, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400456, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400890, 'commandId': 167015721, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400544, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400508, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400686, 'commandId': 167015720, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400782, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400862, 'commandId': 167015721, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400635, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400636, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400392, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400378, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400392, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400378, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400636, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400477, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400890, 'commandId': 167015721, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400819, 'commandId': 167015721, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400570, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400782, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400862, 'commandId': 167015721, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400712, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400968, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400402, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400903, 'commandId': 167015722, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400451, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400903, 'commandId': 167015722, 'status': 'FAILED_AUTH', 'commandType': 'METER_DETAILS', 'version': None}
+{'nodeId': 400402, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400451, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400819, 'commandId': 167015721, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400712, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400405, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400726, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400968, 'commandId': 167015722, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400660, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400352, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400352, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400405, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400798, 'commandId': 167015723, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400612, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400798, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400660, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400726, 'commandId': 167015723, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400863, 'commandId': 167015724, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400965, 'commandId': 167015725, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400863, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400965, 'commandId': 167015725, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400903, 'commandId': 347934398, 'status': 'ACCEPTED', 'commandType': 'SET_METER_PASSWORD'}
+{'nodeId': 400612, 'commandId': 167015724, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 620012, 'commandId': 1670157339, 'status': 'ACCEPTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400903, 'commandId': 259495907, 'status': 'ACCEPTED', 'commandType': 'SET_METER_PASSWORD'}
+{'nodeId': 620012, 'commandId': 1670157339, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 620012, 'commandId': 1670157373, 'status': 'ACCEPTED', 'commandType': 'P_READ_LOAD'}
+{'nodeId': 500022, 'commandId': 167015738, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 500020, 'commandId': 167015739, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 500022, 'commandId': 167015738, 'status': 'FAILED_AUTH', 'commandType': 'METER_DETAILS', 'version': None}
+{'nodeId': 500020, 'commandId': 167015739, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400175, 'commandId': 167015739, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 500021, 'commandId': 167015739, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 500021, 'commandId': 167015739, 'status': 'FAILED_AUTH', 'commandType': 'METER_DETAILS', 'version': None}
+{'nodeId': 400175, 'commandId': 167015739, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'TF6D9.325130'}
+{'nodeId': 400047, 'commandId': 167015739, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400149, 'commandId': 167015739, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400149, 'commandId': 167015739, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'GF6D9.325130'}
+{'nodeId': 400313, 'commandId': 167015739, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400214, 'commandId': 167015739, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400015, 'commandId': 167015739, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400065, 'commandId': 167015739, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400313, 'commandId': 167015739, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'GF6D9.325130'}
+{'nodeId': 400105, 'commandId': 167015739, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400214, 'commandId': 167015739, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400065, 'commandId': 167015739, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400015, 'commandId': 167015739, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400047, 'commandId': 167015739, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400105, 'commandId': 167015739, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400223, 'commandId': 167015739, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400223, 'commandId': 167015739, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'GF6D9.325130'}
+{'nodeId': 620012, 'commandId': 1670157373, 'status': 'EXECUTED', 'commandType': 'P_READ_LOAD'}
+{'nodeId': 400636, 'commandId': 1590, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400924, 'commandId': 21, 'status': 'EXECUTED', 'commandType': 'P_READ_MIDNIGHT'}
+{'nodeId': 400665, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400539, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400371, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400335, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400961, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400665, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400371, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400987, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400335, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400539, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400987, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400624, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400624, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400896, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400585, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400532, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400715, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400437, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400437, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400961, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400576, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400576, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400412, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400569, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400948, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400896, 'commandId': 167015774, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400613, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400391, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400532, 'commandId': 167015774, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400721, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400502, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400555, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400948, 'commandId': 167015774, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400485, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400485, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400412, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400446, 'commandId': 167015775, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400613, 'commandId': 167015774, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400391, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400569, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400585, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400755, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400604, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400755, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400555, 'commandId': 167015774, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400681, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400971, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400750, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400715, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400418, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400894, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400502, 'commandId': 167015774, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400488, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400721, 'commandId': 167015774, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400446, 'commandId': 167015775, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400750, 'commandId': 167015774, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400894, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400775, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400944, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400681, 'commandId': 167015774, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400623, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400623, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400617, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400460, 'commandId': 167015775, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400775, 'commandId': 167015774, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400971, 'commandId': 167015774, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400604, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400944, 'commandId': 167015774, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400418, 'commandId': 167015774, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400617, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400683, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400488, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400582, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400460, 'commandId': 167015775, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400804, 'commandId': 167015776, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400938, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400656, 'commandId': 167015775, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400464, 'commandId': 167015775, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400337, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400369, 'commandId': 167015774, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400656, 'commandId': 167015775, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400891, 'commandId': 167015776, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400891, 'commandId': 167015776, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400464, 'commandId': 167015775, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400428, 'commandId': 167015777, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400977, 'commandId': 167015777, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400804, 'commandId': 167015776, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400683, 'commandId': 167015774, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400498, 'commandId': 167015773, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400498, 'commandId': 167015773, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400369, 'commandId': 167015774, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400766, 'commandId': 167015777, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400831, 'commandId': 167015775, 'status': 'ACCEPTED', 'commandType': 'METER_DETAILS'}
+{'nodeId': 400938, 'commandId': 167015774, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}
+{'nodeId': 400582, 'commandId': 167015774, 'status': 'EXECUTED', 'commandType': 'METER_DETAILS', 'version': 'G36B7.145601'}

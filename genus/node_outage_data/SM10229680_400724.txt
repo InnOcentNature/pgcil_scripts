@@ -1,1 +1,0 @@
-1670060557795 : {'assetNumber': 'SM10229680', 'nodeOutage': True, 'debugServerTime': '2022-12-03T15:12:37.795733', 'nodeId': 400724}

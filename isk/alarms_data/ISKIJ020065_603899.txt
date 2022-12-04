@@ -1,1 +1,0 @@
-1670052671019 : {'nodeId': 603899, 'debugServerTime': '2022-12-03T13:01:11.01957', 'assetNumber': 'ISKIJ020065', 'alertTime': '2022-12-03 13:00:00', 'alertStatus': []}

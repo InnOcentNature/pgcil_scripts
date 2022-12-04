@@ -886,8 +886,8 @@ if __name__ == '__main__':
         # for node in master_nodes:
         #     load(node, False)
         #     time.sleep(1)
-        #     print(count)
-        #     count = count + 1
+        #     print(count6f)
+        #     count6f = count6f + 1
         # for line in excuted_nodes_file.readlines():
         #     line = line.replace("\n", "")
         #     excuted_nodes.append(int(line))

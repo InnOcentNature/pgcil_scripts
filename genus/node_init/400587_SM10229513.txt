@@ -1,0 +1,1 @@
+{'nodeId': 400587, 'meterNumber': 'SM10229513', 'meterMaker': 'GOESPHWCNS', 'gwId': '866340057544085', 'sinkId': 'sink1', 'rfMeterType': 'SMART', 'debugServerTime': '2022-12-04T16:28:24.684692'}
